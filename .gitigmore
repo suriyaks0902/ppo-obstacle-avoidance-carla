@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+models/
+*.pt
+*.h5
+
+# Environment + build
+*.egg-info/
+*.egg
+.env
+.DS_Store
+
+# Logs and monitoring
+*.log
+wandb/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
